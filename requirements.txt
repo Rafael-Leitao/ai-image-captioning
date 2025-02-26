@@ -1,0 +1,5 @@
+transformers    # Loads the BLIP model from Hugging Face.
+torch           # Runs the deep learning model.
+torchvision     # Runs the deep learning model.
+Pillow          # Handles image processing.
+gradio          # Creates the web interface.
